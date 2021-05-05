@@ -1,7 +1,11 @@
 'use strict';
 
 exports.id = 'com.add0n.native_client';
+<<<<<<< HEAD
 exports.version = '0.4.6';
+=======
+exports.version = '0.4.3';
+>>>>>>> parent of bfab9f6 (download-with-jdownlaoder for edge)
 
 exports.ids = {
   chrome: [
@@ -18,7 +22,6 @@ exports.ids = {
     'iidhcgjgmjodnfbghbgpdnhiajbmgcjo', // Download with FDM (Opera)
     'jfpmbokkdeapjommajdfmmheiiakdlgo', // Download with JDownloader (Chrome)
     'jjbbcngfknmgdlekfofhaagmogeifbpc', // Download with JDownloader (Opera)
-    'ilonanfdcnaljoedndpfeflllibalflj', // Download with JDownloader (Edge)
     'hlbdmmifbcfpccdnoknhdfcifiglaihb', // Download with DAP (Chrome)
     'ekeecmblpnobdaijmfkcfcnofopooipg', // Download with DAP (Opera)
     'jplcfomghgpjlgglocndioeceojhoika', // Download with Wget (Chrome)
